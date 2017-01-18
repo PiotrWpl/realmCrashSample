@@ -1,0 +1,14 @@
+bin/
+gen/
+out/
+target/
+build/
+.gradle/
+# Intellij
+.idea/
+*.iml
+*.iws
+local.properties
+.DS_Store
+projectFilesBackup/
+library/
